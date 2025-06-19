@@ -65,7 +65,7 @@ A modern, feature-rich typing speed test application built with Python and Custo
 
 ## Screenshots
 
-![KeySprint Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/91244ff4-05fe-4e24-b416-9fe8ce563c90)
 
 ---
 
@@ -151,10 +151,12 @@ python keysprint.py
 
 ```
 keysprint/
-├── keysprint.py          # Main application file
+├── main.py               # Main application file
 ├── requirements.txt      # Python dependencies
 ├── README.md             # Project documentation
-└── screenshot.png        # Application screenshot (optional)
+├── text_generator.py     # text generator
+└── icon.ico              # application icon file
+
 ```
 
 ---
