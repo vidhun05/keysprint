@@ -1,0 +1,36 @@
+Imprint Non-Commercial License (Based on the MIT License)
+
+Copyright (c) 2025 Vidhun Roshan
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to use,
+copy, modify, merge, publish, and distribute the Software for personal,
+educational, or other non-commercial purposes only, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in
+   all copies or substantial portions of the Software.
+
+2. Commercial use of any kind is strictly prohibited. This includes, but is not limited to:
+   - Selling the Software or any derivative works
+   - Including the Software in commercial products or services
+   - Using the Software for SaaS, freelance work, or monetized content
+
+3. The Software is provided “as is”, without warranty of any kind, express or
+   implied, including but not limited to the warranties of merchantability,
+   fitness for a particular purpose and noninfringement. In no event shall the
+   author(s) or copyright holder(s) be liable for any claim, damages or other
+   liability, whether in an action of contract, tort or otherwise, arising from,
+   out of or in connection with the Software or the use or other dealings in the
+   Software.
+
+4. To obtain a commercial license, please contact the author.
+
+---
+
+This software uses third-party libraries that are licensed separately:
+
+- **Faker** – Licensed under the MIT License  
+- **CustomTkinter** – Licensed under the MIT License  
+
+The license texts for these third-party libraries are available in their respective repositories and are recommended to be included in a `THIRD_PARTY_LICENSES.md` file if distributing this software.
+
