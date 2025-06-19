@@ -66,6 +66,8 @@ A modern, feature-rich typing speed test application built with Python and Custo
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/91244ff4-05fe-4e24-b416-9fe8ce563c90)
+![image](https://github.com/user-attachments/assets/1f389533-9b0e-4e30-8167-4970e3f6a0e8)
+
 
 ---
 
